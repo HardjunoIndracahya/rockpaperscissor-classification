@@ -26,6 +26,6 @@ During training, the model is also evaluated on validation data. This process he
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 Feel free to experiment with the model and adapt it for your own projects. If you encounter any issues or have suggestions for improvement, please open an issue.
